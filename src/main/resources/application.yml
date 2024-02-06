@@ -1,0 +1,10 @@
+spring :
+  datasource :
+    url : jdbc:mysql://localhost:3306/librarymanage
+    username : root
+    password : Thisu@2006
+
+  jpa :
+    hibernate :
+      ddl-auto : update
+
